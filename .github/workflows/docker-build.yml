@@ -23,4 +23,6 @@ jobs:
       with:
         context: .
         push: true
-        tags: jocy712/musica:latest
+        tags: jocy712/musica:latest #cualquier cambio en el 
+        #código hará que se suba una nueva imagen con la etiqueta latest
+        
